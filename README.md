@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hello all,
-I am Anant Patankar working as a Data Scientist in India
+I am Anant Patankar working as a Data Scientist in India and this is my Data Science Portfolio.
 
 - 🔭 I’m currently working on (Upcoming)
 - 🌱 I’m currently learning (Upcoming)
