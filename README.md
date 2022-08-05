@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**anant-patankar/anant-patankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello all,
+I am Anant Patankar working as a Data Scientist in India
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on (Upcoming)
+- 🌱 I’m currently learning (Upcoming)
+- 👯 I’m looking to collaborate on (Upcoming)
+- 🤔 I’m looking for help with (Upcoming)
+- 💬 Ask me about (Upcoming)
+- 📫 How to reach me: patankar.anant123@gmail.com
+- 😄 Pronouns: Data Scientist
+- ⚡ Fun fact: Coffee <3
